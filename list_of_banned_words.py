@@ -1,0 +1,1 @@
+curseWords = ['fuck', 'bitch', 'shit']
